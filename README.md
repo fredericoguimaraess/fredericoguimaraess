@@ -18,3 +18,12 @@
   <img align="center" alt="Frederico-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Frederico-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+  ##
+  
+  <div>
+     <a href = "mailto:fred.souza2003@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/frederico-guimarães-b9192b232/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     ![Snake animation](https://github.com/fredericoguimaraess/fredericoguimaraess/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>

@@ -1,7 +1,7 @@
 <h2>Oi! Eu sou o Frederico Guimarães, desenvolvedor Fullstack 😄;  </h2> 
 
-- 🔭 Atualmente estou trabalhando com suporte técnico e implantações de sistemas ERP!
-- 🌱 Estou estudando para me aperfeiçoar e ingressar em fullstack.
+- 🔭 Atualmente estou trabalhando com desenvolvimento fullstack!
+- 🌱 Sempre procurando estudar e me aperfeiçoar na área.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/frederico-guimarães-b9192b232/">
